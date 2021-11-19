@@ -597,7 +597,7 @@ break
 
 *OWNER*
 - Instagram : https://www.instagram.com/mrf.zvx
-- WhatsApp : wa.me/6282223014661
+- WhatsApp : wa.me/919556416715
 
 *SCRIPT*
 - Git : ${package.homepage}
